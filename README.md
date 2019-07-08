@@ -1,5 +1,5 @@
 > [mike.guillemette@gmail.com](mailto:mike.guillemette@gmail.com) | (902) 817-3574
-# Michael Guillemette - Software Engineer and Full Stack Developer
+# Michael Guillemette - Full Stack Developer
 
 ### Objective
 >I am looking to leverage my passion for technology and design, along with my proven ability to produce results in fast paced, team-oriented environments into a career in web software development. 
