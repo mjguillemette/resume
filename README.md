@@ -1,7 +1,7 @@
-> [mike.guillemette@gmail.com](mailto:mike.guillemette@gmail.com) | (902) 817-3574
+> [mike.guillemette@gmail.com](mailto:mike.guillemette@gmail.com) | __(902) 817-3574__
 # Michael Guillemette - Web Software Engineer
 
-### Objective
+## Objective
 >I am looking to leverage my passion for technology and design, along with my proven ability to produce results in fast paced, team-oriented environments into a career in web software development. 
 >My ideal workplace challenges me to continue to educate myself, and provides an environment and community which necessitate both the cultivation of strong working relationships and constant personal development.
 
