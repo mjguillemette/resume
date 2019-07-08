@@ -1,5 +1,5 @@
 > [mike.guillemette@gmail.com](mailto:mike.guillemette@gmail.com) | (902) 817-3574
-# Michael Guillemette - Full Stack Developer
+# Michael Guillemette - Web Software Engineer
 
 ### Objective
 >I am looking to leverage my passion for technology and design, along with my proven ability to produce results in fast paced, team-oriented environments into a career in web software development. 
@@ -20,3 +20,15 @@
     >> Worked with a team to ensure guest satisfaction and provide remarkable customer experiences
     >> Design and implementation of website and online menu; Increased unique traffic in 2018 by 17%
     >> Creation and management of web strategy and online content
+
+    Gallery Assistant, Francesca Anderson Fine Art, Lexington MA
+    November 2016 – April 2017
+    >> Responsible for design of web and print content, carefully ensuring consistent branding
+    >> Provided a diverse array of technical support such as data backup and storage solutions
+    >> Extensive use of the Adobe Creative Suite for both print and web content creation
+    
+### Projects
+    Prod Perfect, Technical Lead, Student Team
+    June 2019 - Present
+    >> Working with senior leadership team and marketing coordinator to develop a lead-generating marketing web application. 
+    >> Guiding team in technical decisions such as tech stack and implementation of software.
