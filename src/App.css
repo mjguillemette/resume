@@ -9,8 +9,13 @@ body {
   color: #343547;
 }
 
+.contact {
+  float: right;
+}
+
 h1 {
   font-size: 2.215rem;
+  max-width: 100vw;
 }
 ul.bigMenu {
   padding: 0;
@@ -19,14 +24,12 @@ ul.bigMenu {
   display: none;
 }
 
-td,
-th {
-  border: 1px solid #ddd;
-  padding: 8px;
+td {
+  padding: 0.46em;
 }
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #efefef;
 }
 
 tr:hover {
@@ -34,18 +37,22 @@ tr:hover {
 }
 
 th {
+  padding: 8px;
+  width: 100vw;
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
   background-color: #1f6c90;
-  color: #eeeeee;
+  color: #eee;
 }
-/* @media only screen and (max-width: 600px) {
-  li.menuItems {
-    display: none;
-  }
 
-  .smallMenu {
-    display: block;
+@media only screen and (max-width: 700px) {
+  .contact {
+    float: none;
   }
-} */
+  .App {
+    margin: auto;
+    max-width: 90vw;
+    color: #343547;
+  }
+}

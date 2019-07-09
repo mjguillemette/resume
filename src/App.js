@@ -18,7 +18,7 @@ function App() {
         >
           Michael Guillemette
         </h1>
-        {/* <Menu />{' '} */}
+        <Menu />{' '}
       </header>
       {/* <SmallMenu />
       <article

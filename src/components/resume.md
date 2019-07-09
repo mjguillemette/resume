@@ -9,13 +9,13 @@
 
 ## Technical Skills
 
-| JavaScript    | Standards               | Design               | Misc.                      |
-| ------------- | ----------------------- | -------------------- | -------------------------- |
-| React.js      | HTML5 / Accessibility   | Adobe Creative Suite | Linux CLI / Bash scripting |
-| Node.js / npm | CSS / Preprocessors     | Illustration         | Java                       |
-| ECMAScript 6  | Test Driven Development | Typography           | SQL / GraphQL Databases    |
-| Gatsby.js     | Object Oriented Design  |                      |                            |
-|               | Git / Version Control   |                      |                            |
+| JavaScript    | Standards               | Design       | Misc.                   |
+| ------------- | ----------------------- | ------------ | ----------------------- |
+| React.js      | HTML5 / Accessibility   | Adobe CS     | Linux / Bash scripting  |
+| Node.js / npm | CSS / Preprocessors     | Illustration | Java                    |
+| ECMAScript 6  | Test Driven Development | Typography   | SQL / GraphQL Databases |
+| Gatsby.js     | Object Oriented Design  |              |                         |
+|               | Git / Version Control   |              |                         |
 
 ## Work Experience
 

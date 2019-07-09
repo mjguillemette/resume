@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class Menu extends Component {
   render() {
     return (
-      <p style={{ float: 'right', fontSize: '1em' }}>
+      <p className="contact" style={{ fontSize: '1em' }}>
         <strong style={{ color: '#1f6c90' }}>Software Developer</strong>
         <br />
         <a
@@ -13,7 +13,7 @@ class Menu extends Component {
           mike.guillemette@gmail.com
         </a>
         <br />
-        (902) 817-3574
+        (978) 340-0477
       </p>
     )
   }

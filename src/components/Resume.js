@@ -11,9 +11,9 @@ I am looking to leverage my passion for technology and design, along with my pro
 
 | JavaScript    | Standards               | Design               | Misc.                      |
 | ------------- | ----------------------- | -------------------- | -------------------------- |
-| React.js      | HTML5 / Accessibility   | Adobe Creative Suite | Linux CLI / Bash scripting |
+| React.js      | HTML5 / Accessibility   | Adobe CS             | Linux / Bash scripting     |
 | Node.js / npm | CSS / Preprocessors     | Illustration         | Java                       |
-| ECMAScript 6  | Test Driven Development | Typography           | SQL / GraphQL Databases    |
+| ECMAScript 6  | Test Driven Development | Typography           | SQL / NoSQL Databases      |
 | Gatsby.js     | Object Oriented Design  |                      |                            |
 |               | Git / Version Control   |                      |                            |
 
@@ -59,7 +59,7 @@ class Menu extends Component {
     return (
       <div
         style={{
-          color: '#16161d',
+          color: '#343547',
           padding: '3em 0'
         }}
         dangerouslySetInnerHTML={{ __html: html }}

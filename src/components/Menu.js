@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 
-const menuItem = ['📜 Resume']
-// '✏️Blog', '🖥️ Projects',
+const menuItem = ['📜 Resume', '✏️Blog', '🖥️ Projects']
 
 const menuItems = menuItem.map(item => (
   <li
