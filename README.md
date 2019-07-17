@@ -1,5 +1,5 @@
-> [mike.guillemette@gmail.com](mailto:mike.guillemette@gmail.com) | __(902) 817-3574__
-# Michael Guillemette - Web Software Engineer
+> [mike.guillemette@gmail.com](mailto:mike.guillemette@gmail.com) | __(978) 340-0477__
+# Michael Guillemette - Software Developer
 
 ## Summary
 A self-taught technologist and Bootcamp-mentored engineer applying customer service insights to shape design decisions and user experiences. Leveraging communication skills such as empathy and clarity along with divergent, lateral thinking to collaborate effectively with a team and generate inventive results.  
