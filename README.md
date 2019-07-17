@@ -15,7 +15,7 @@ Motivated to create performant web applications with an emphasis on form and int
 | Gatsby.js     | Git                     |                      |                            |
 
 ## Experience
-__ProdPerfect, Consultant__  
+__ProdPerfect, Consultant, Remote__  
 June 2019 - Present  
 - Working with COO and marketing coordinator to develop an informational, lead-generating web application 
 - Guiding team in technical decisions such as tech stack and component-driven development
