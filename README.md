@@ -18,7 +18,7 @@ Motivated to create performant web applications with an emphasis on form and int
 __ProdPerfect, Consultant__  
 June 2019 - Present  
 - Working with COO and marketing coordinator to develop an informational, lead-generating web application 
-- Guiding team in technical decisions such as tech stack and component driven development
+- Guiding team in technical decisions such as tech stack and component-driven development
 - Responsible for application design and UI
 
 __Bartender & Web Admin, Lexx Restaurant, Lexington MA__  
@@ -36,7 +36,7 @@ November 2016 – April 2017
  
 __Bartender, Seoul Kitchen, Westford MA__  
 May 2014 – November 2015  
- - Crafted unique, polynesian inspired cocktails
+ - Crafted unique, Polynesian inspired cocktails
  - Responsible for transactions and point of sale operation, managing of cash drawers
 
 __Graphic Designer, Spirit Products, Haverhill MA__  
@@ -47,9 +47,9 @@ January 2013 - June 2015
 - Careful attention to customer branding and style guidelines
 
 __Supervisor & Instructor, Guard Up Family Swordsmanship, Burlington MA__  
-November 2011 - Janury 2013  
-- Developed instructor training program to enable those proficient in one area to become more well-rounded
-- Directed 5 youth classes including foil fencing, swordsmanship for pre-schoolers and live action roleplay 
+November 2011 - January 2013  
+- Developed an instructor training program to enable those proficient in one area to become more well-rounded
+- Directed 5 youth classes including foil fencing, swordsmanship for pre-schoolers and live-action roleplay 
 
 ## Education
 __Framingham State University & Stack Education__
