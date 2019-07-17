@@ -3,7 +3,7 @@
 
 ## Summary
 A self-taught technologist and Bootcamp-mentored engineer applying customer service insights to shape design decisions and user experiences. Leveraging communication skills such as empathy and clarity along with divergent, lateral thinking to collaborate effectively with a team and generate inventive results.  
-Motivated to create performant web applications with an emphasis on form and interaction. Continually seeking opportunities to learn and environments that necessitate both the cultivation of productive, dynamic working relationships and personal growth. 
+Motivated to create performant web applications with an emphasis on form and interaction. Continually seeking opportunities to learn and environments that necessitate both the cultivation of productive, dynamic relationships and personal growth. 
 
 ## Technical Skills
 | JavaScript    | Standards               | Design               | Misc.                      |
