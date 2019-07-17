@@ -52,11 +52,11 @@ November 2011 - January 2013
 - Directed 5 youth classes including foil fencing, swordsmanship for pre-schoolers and live-action roleplay 
 
 ## Education
-__Framingham State University & Stack Education__
-May 2019 - August 2019
+__Framingham State University & Stack Education__  
+May 2019 - August 2019  
 Framingham State certified Web Development Bootcamp program
 Certificate of Web Development from Framingham State University
 
-__Middlesex Community College__ _In Progress_
-2017 - Present
+__Middlesex Community College__ _In Progress_  
+2017 - Present  
 Completed 40 credits toward Associate of Science degree
